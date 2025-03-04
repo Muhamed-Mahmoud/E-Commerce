@@ -1,7 +1,7 @@
 # Fresh Cart Route E-commerce
 
 ## 🚀 Live Demo
-Check out the live version:
+Check out the live version: https://e-commerce-umber-eta.vercel.app/
 
 ## Installation & Setup
 To set up the project locally, follow these steps:
