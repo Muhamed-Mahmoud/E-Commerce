@@ -9,7 +9,7 @@ To set up the project locally, follow these steps:
 ```bash
 # Clone the repository
 git clone https://github.com/Muhamed-Mahmoud/e-commerce.git
-cd fresh-cart
+cd e-commerce
 
 # Install dependencies
 npm install
